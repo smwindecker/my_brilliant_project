@@ -213,8 +213,8 @@ plot(plot_values ~ precip_actual,
 #   opportunities for mistakes if we want to plot three species by
 #   four predictors. What if we had more species or more predictors?
 
-
-
+# git config --global user.email "your@email.com"
+# git config --global user.name "your_name"
 
 # I have made a important edit
 

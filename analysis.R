@@ -13,7 +13,7 @@ source("R/plotting_functions.R")
 # decay <- read.csv('data/decay.csv')
 mosquito_data <- read.csv("data/mosquito_data.csv")
 
-# clean and tidies data
+# clean and tidy data
 # 
 mosquito_data$salinity_std <- 
   rescale(mosquito_data$salinity__ppt)

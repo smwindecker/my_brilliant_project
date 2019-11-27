@@ -1,0 +1,19 @@
+How to commit things:
+
+Committing for the first time:
+
+1. in the git pane in the top right, click on the 'stage' button next to the file
+2. click on the 'diff' button to open up the commit screen
+3. write a commit message
+4. click commit, then close the pop-up window
+
+
+Do and initial commit
+
+edit
+
+save
+
+write a commit message & stage
+
+hit commit

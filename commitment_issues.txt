@@ -8,12 +8,12 @@ Committing for the first time:
 4. click commit, then close the pop-up window
 
 
-Do and initial commit
+Subsequent commits:
 
-edit
+1. edit the file
+2. save the file
+3. click the 'stage' button in the top right pane
+4. click on 'diff'
+5. enter a commit message
+6. click commit, and close the pop-up window
 
-save
-
-write a commit message & stage
-
-hit commit

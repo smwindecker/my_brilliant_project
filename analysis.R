@@ -20,6 +20,10 @@ mosquito_data$salinity_std <-
 
 # model
 
+Some useful stuff 
 
 # plotting output
+
+
+more stuff
 

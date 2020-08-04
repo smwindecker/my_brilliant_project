@@ -1,7 +1,8 @@
-
+# load libraries
 library(remotes)
 library(holepunch)
 
+# install github package
 remotes::install_github("karthik/holepunch")
 
 
